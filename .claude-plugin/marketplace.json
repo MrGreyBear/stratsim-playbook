@@ -1,0 +1,14 @@
+{
+  "name": "stratsim-playbook",
+  "description": "A closed-loop playbook for StratSim Management, packaged as an agent skill.",
+  "owner": {
+    "name": "MrGreyBear"
+  },
+  "plugins": [
+    {
+      "name": "stratsim",
+      "source": "./",
+      "description": "StratSim decision coach: yearly review-decide-test loop, rules of thumb and a final-year plan."
+    }
+  ]
+}
