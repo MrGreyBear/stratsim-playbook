@@ -1,0 +1,11 @@
+{
+  "name": "stratsim",
+  "description": "StratSim Management decision coach: a closed yearly loop, rules of thumb with their conditions, and a final-year plan, from a team that finished first of seven.",
+  "version": "1.0.0",
+  "author": {
+    "name": "MrGreyBear"
+  },
+  "homepage": "https://github.com/MrGreyBear/stratsim-playbook",
+  "repository": "https://github.com/MrGreyBear/stratsim-playbook",
+  "keywords": ["stratsim", "business-simulation", "strategy", "skill"]
+}
